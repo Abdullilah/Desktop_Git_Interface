@@ -161,16 +161,3 @@
 }
 
 /* End main section on the right */
-
-.Page_changes {
-  font-size: 15px;
-  font-family: "Roboto";
-  color: rgb(8, 6, 6);
-  line-height: 3.333;
-  position: absolute;
-  left: 351.937px;
-  top: 341.383px;
-  width: 94px;
-  height: 15px;
-  z-index: 121;
-}
